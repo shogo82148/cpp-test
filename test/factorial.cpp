@@ -1,3 +1,5 @@
+#include "gtest/gtest.h"
+
 int Factorial(int n);
 
 TEST(FractionTest, hoge) {

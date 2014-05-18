@@ -23,10 +23,17 @@
 # Config files
 /config.h
 /config.status
+
+# log files
 *.log
+*.trs
+
+# test
+/test/factorial_test
 
 # http://www.gnu.org/software/automake
 
+Makefile
 Makefile.in
 
 # http://www.gnu.org/software/autoconf
